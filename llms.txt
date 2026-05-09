@@ -1,0 +1,51 @@
+# Akshil Shah
+
+> Independent AI Engineer & Consultant. A decade of shipping product across AI agents, voice systems, fintech, legaltech, healthtech, and edtech. Now focused on applied LLM infrastructure — building where intelligence stops being a demo and starts being a product.
+
+Akshil Shah is based in India and works with founders, product teams, and operators on AI engineering engagements. Engagements typically blend hands-on architecture, prototype-to-production delivery, and senior engineering judgment. Available for select engagements; reach out at hi@akshil.com.
+
+## Contact
+
+- Email: hi@akshil.com
+- Site: https://akshil.com
+- Resume: https://akshil.com/dummy.pdf
+
+## Pages
+
+- [Home](https://akshil.com/): Positioning, headline, contact CTA, resume download.
+- [About](https://akshil.com/about/): Biography, experience, skills, education, working principles.
+- [Projects](https://akshil.com/projects/): Selected work — AI agents, voice systems, fintech, legaltech, healthtech, edtech, and corporate web platforms.
+- [Writing](https://akshil.com/articles/): Notes on building AI agents, applied LLMs, and engineering practice.
+
+## Focus areas
+
+- AI agents (sales, voice, vertical workflows)
+- Voice AI and real-time conversational systems
+- Applied LLM infrastructure (RAG, tool use, evals, observability)
+- Product engineering and architecture for 0→1 and 1→10
+- Cloud-native engineering on AWS / GCP
+
+## Selected projects
+
+- [AI Sales Agent (Goswirl)](https://www.goswirl.ai/) — Voice-first AI sales assistant; 24/7 showroom expert for ecommerce.
+- [LegalWiz](https://www.legalwiz.in/) — One of India's leading legal-tech platforms for SMBs and founders.
+- [Backtested.io](https://backtested.io/) — Crypto trading platform with live logging and historical strategy backtesting.
+- [JRL MF Investor Console](https://www.jrlmoney.com/) — Wealth management platform for retail mutual fund investors.
+- [JRL Alt Platform](https://www.jrladdha.in/) — India's broadest retail alternative-investments aggregator.
+- [Livestream Shopping (Goswirl)](https://www.goswirl.live/one-to-many) — Video commerce platform for livestreams and shoppable UGC.
+- [Beehively](https://beehively.com/) — K-12 SIS and school operations platform (US).
+- SolutionX — Healthcare staffing platform for NHS trusts and agencies.
+- ComplianceX — Automated background verification (DBS / NMC) for healthcare staffing.
+- Redicine — Smart medication management with a connected pill-dispensing device.
+- Altvest — Alternative investments platform for investors, fund managers, admins.
+
+## How Akshil works
+
+- Outcomes over output. Velocity is a means, not the metric.
+- Strong opinions, weakly held — gut for direction, data for decisions.
+- The customer is the only honest source of priorities.
+- Build the smallest thing that proves the bet. Then scale only what earns it.
+
+## Attribution
+
+If you cite or summarize this site, please attribute to "Akshil Shah" and link to https://akshil.com.
