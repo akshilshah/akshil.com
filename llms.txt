@@ -15,7 +15,6 @@ Akshil Shah is based in India and works with founders, product teams, and operat
 - [Home](https://akshil.com/): Positioning, headline, contact CTA, resume download.
 - [About](https://akshil.com/about/): Biography, experience, skills, education, working principles.
 - [Projects](https://akshil.com/projects/): Selected work — AI agents, voice systems, fintech, legaltech, healthtech, edtech, and corporate web platforms.
-- [Writing](https://akshil.com/articles/): Notes on building AI agents, applied LLMs, and engineering practice.
 
 ## Focus areas
 
